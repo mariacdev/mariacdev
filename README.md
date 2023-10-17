@@ -1,30 +1,28 @@
-### Olá! Eu sou a Maira C Silva 🙋🏻‍♀️
+<h1 align="center">Olá 👋, eu sou Maria C. Silva</h1>
+<h3 align="center">Apaixona por ciência e análise de dados</h3>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/mariacsilvaof)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariacsilva21?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOg9vL%2BrbQMeyW31KpVjS%2BQ%3D%3D)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+- 🌱 Atualmente estou aprendendo **Python e Machine Learning**
 
-![mariacdev GitHub stats](https://github-readme-stats.vercel.app/api?username=mariacdev&show_icons=true&theme=tokyonight)
+- 👯 Também estou compartilhando conteúdo no Instagram [Perfil do Instagram](https://instagram.com/mariacsilvaof?igshid=MzMyNGUyNmU2YQ==)
 
-## Tecnologias que eu uso no meu dia
+- 👨‍💻 Aqui estão projetos que desenvolvi [https://studiorm4.my.canva.site/](https://studiorm4.my.canva.site/)
 
-<div style="display: inline_block"><br/>
-   <img  align= "center" alt="html5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-   <img  align= "center" alt="python"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-   <img  align= "center" alt="javascript"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-   <img  align= "center" alt="R"  src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-   <img  align= "center" alt="C"  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-   <img  align= "center" alt="microsoftazure"  src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-   <img  align= "center" alt="googlecloud"  src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-   <img  align= "center" alt="sqlite"  src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-   <img  align= "center" alt="mysql"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-   <img  align= "center" alt="sass"  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-   <img  align= "center" alt="amazonaws"  src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-   <img  align= "center" alt="scala"  src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white">
-</div><br/>
+- 💬 Me pergunte sobre **SQL, Python, Power BI e AWS**
 
- Apaixonada por tecnologia, educação e por sempre buscar novos conhecimentos na área da TI.
+- 📫 Você me através do e-mail **rosyelmam@gmail.com**
 
- ## Para mais informações:
-  - [E-mail](rosyelmam@gmail.com)
+- 📄 Aqui estão minhas habilidades [www.linkedin.com/in/mariacsilva21](www.linkedin.com/in/mariacsilva21)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mariacsilva21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mariacsilva21" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/mariacsilvaof?igshid=mzmynguynmu2yq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/mariacsilvaof?igshid=mzmynguynmu2yq==" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+   ![mariacdev GitHub stats](https://github-readme-stats.vercel.app/api?username=mariacdev&show_icons=true&theme=dark) 
+
+
   
