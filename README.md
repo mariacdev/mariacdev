@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, eu sou a Maria C. Silva</h1>
 <h3 align="center">Apaixona por ciência e análise de dados</h3>
 
-- 🔭 Atualmente trabalhando no meu com análise e visualização de dados **Portfolio Pessoal**
-
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning**
 
 - 👯 Também estou compartilhando conteúdo no Instagram [Perfil do Instagram](https://instagram.com/mariacsilvaof?igshid=MzMyNGUyNmU2YQ==)
