@@ -1,34 +1,54 @@
-<h1 align="center">Olá 👋, eu sou a Maria C. Silva</h1>
-<h3 align="center">Apaixona por ciência e análise de dados</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AEFF02&height=120&section=header"/>
 
-- 🔭 Atualmente trabalhando com análise e visualização de dados **Portfólio Pessoal**
-
-- 🌱 Atualmente estou aprendendo **Python e Machine Learning**
-
-- 👯 Também estou compartilhando conteúdo no Instagram [Perfil do Instagram](https://instagram.com/mariacsilvaof?igshid=MzMyNGUyNmU2YQ==)
-
-- 👨‍💻 Aqui estão projetos que desenvolvi [https://studiorm4.my.canva.site/](https://studiorm4.my.canva.site/)
-
-- 💬 Me pergunte sobre **SQL, Python, Power BI e AWS**
-
-- 📫 Você me através do e-mail **rosyelmam@gmail.com**
-
-- 📄 Aqui estão minhas habilidades [www.linkedin.com/in/mariacsilva21](www.linkedin.com/in/mariacsilva21)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mariacsilva21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mariacsilva21" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/mariacsilvaof?igshid=mzmynguynmu2yq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/mariacsilvaof?igshid=mzmynguynmu2yq==" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AEFF02&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Maria+C+Silva;I'm+21+years+old;I'm+from+Brazil;I+Graduated+in+Systems+Analysis+and+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mariacdev&show_icons=true&count_private=true&hide_border=true&title_color=AEFF02&icon_color=AEFF02&text_color=c9d1d9&bg_color=0d1117" alt="Maria C Silva github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacdev&layout=compact&hide_border=true&title_color=AEFF02&text_color=AEFF02&bg_color=0d1117" />
+</div>
 
-   ![mariacdev GitHub stats](https://github-readme-stats.vercel.app/api?username=mariacdev&show_icons=true&theme=dark) 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mariacdev&bg_color=292929&color=abd70f&line=a7f434&point=000766&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+<div align="center"> 
+<a href="https://instagram.com/mariacsilvaof" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:rosyelmam@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mariacsilvaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+
+
+ ### Main skills:
+ <div style="display: inline_block">
+  <img align="center" alt="tableou" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img align="center" alt="azure" src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white" />
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  
+  
+  
+</div><br/>
+
+
+### Studying in this moment:
+<img align="center" alt="azure" src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white" />
+<img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mariacdev}/count.svg" /></p> 
+<br>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AEFF02&height=120&section=footer"/>
 
 
   
