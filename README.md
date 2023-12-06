@@ -16,7 +16,7 @@
 
 
 
- ### Main skills:
+ ### Skills:
  <div style="display: inline_block">
   <img align="center" alt="tableou" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
   <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -30,7 +30,7 @@
 </div><br/>
 
 
-### Studying in this moment:
+### Estudando neste momento:
 <img align="center" alt="azure" src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white" />
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
