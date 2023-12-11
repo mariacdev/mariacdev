@@ -30,7 +30,7 @@
 </div><br/>
 
 
-### Estudando neste momento:
+### Studying at the moment:
 <img align="center" alt="azure" src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white" />
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
