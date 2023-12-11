@@ -42,8 +42,8 @@
 <br>
 </div>
 
-# CONTATO
-Se você tiver alguma pergunta, comentário ou desejar entrar em contato comigo, sinta-se à vontade para fazê-lo por meio dos links abaixo:
+# CONTACT
+If you have any questions, comments or would like to contact me, please feel free to do so via the links below:
 
 <div align="center"> 
 <a href="https://instagram.com/mariacsilvaof" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
